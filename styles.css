@@ -12,6 +12,10 @@ body {
   justify-content: space-around;
 }
 
+#message {
+  margin: 0;
+}
+
 .board {
   width: 500px;
   height: 500px;
