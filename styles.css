@@ -12,7 +12,8 @@ body {
   justify-content: space-around;
 }
 
-#message {
+#message,
+#draw {
   margin: 0;
 }
 
